@@ -14,6 +14,7 @@ const MainApp = () => {
         <Tab.Screen name="Home" component={Home} />
         <Tab.Screen name="Pesanan" component={Pesanan} />
         <Tab.Screen name="Akun" component={Akun} />
+        <Tab.Screen name="searce" component={Searce} />
       </Tab.Navigator>
   );
 };
